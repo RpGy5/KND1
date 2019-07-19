@@ -1,0 +1,6 @@
+owner=581659082520526848
+prefix=K2
+game=Tese
+stayinchannel=true
+songinstatus=false
+token=NjAxNjYyNDE3OTQ0MTgyNzg1.XTFj2Q.353GtEgungv-DWer_e2b5-0EBIo
